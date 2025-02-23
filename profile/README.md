@@ -1,5 +1,7 @@
 ## 👋 AGE and it's Modules
 
+![AGE](https://github.com/age-engine/.github/blob/main/profile/banner.png?raw=true)
+
 This repository contains the core of a 2D cross-platform game engine, along with several modular systems designed to streamline game development. The engine is optimized for 2D games and supports iOS, tvOS, Android, Android TV, Web, Linux, macOS, and Windows. It features a modular architecture, allowing developers to easily integrate the components they need and extend the engine with custom systems.
 
 ## What is this project about?
